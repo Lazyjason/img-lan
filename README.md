@@ -1,3 +1,1 @@
-hug
-===
-Something about learning language and backup.
+记录一些信息
